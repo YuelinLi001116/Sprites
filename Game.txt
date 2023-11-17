@@ -1,0 +1,16 @@
+World Concept:
+In a remote corner of the universe, there exists a world filled with pixel spirits. This world is surrounded by a unique energy, making it a place full of magic and possibilities.
+
+Pixel Spirits:
+Pixel spirits are unique creatures native to Pixel Island. They possess special appearances. Each spirit is endowed with a unique combination of characteristics by the island's mysterious forces.
+
+Game Start:
+Players in the game take on the role of explorers on Pixel Island, with the task of discovering and creating new pixel spirits. At the start of the game, players choose two out of five basic spirits to begin their exploration journey.
+
+Game Mechanics:
+Spirit Generation: Players create 10 new spirits by combining the characteristics of the two chosen pixel spirits.
+Selection and Re-generation: From these 10 newly generated spirits, players choose one and combine it with another randomly generated spirit by the system to continue creating new spirits.
+Collection and Exploration: The main goal for players is to collect and create a variety of pixel spirits, finding the one that resonates most with themselves.
+
+Objective:
+The main enjoyment of the game lies in exploring the diversity of Pixel Island and discovering and creating unique pixel spirits.
